@@ -1,61 +1,46 @@
-# 👋 Hi! I'm Sammyinkr (qsSammyinkr)
+# 👩🏻‍💻 Sammyinkr
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qsSammyinkr&color=green" alt="Profile Views"/>
-  <h3>Bot Developer | Front-end Developer | Automation Enthusiast</h3>
-</div>
+**`FullStack Developer`**
 
----
-
-## 💡 About Me
-- Creating **interactive bots** and **creative automations**  
-- Passionate about **web technologies, APIs, and programming challenges**  
-- Future goal: **master full-stack development and advanced bot-making**  
+Hi! I'm Sammy Ink, passionate about technology and web development. I enjoy creating projects, sharing knowledge, and improving my skills every day. Check my work and repositories on GitHub: [qsSammyinkr](https://github.com/qsSammyinkr).
 
 ---
 
-## 🛠 Skills & Expertise
+## 🛠 Skills & Technologies
 
-### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript - Expert" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript - Advanced" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python - Intermediate" />
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+
+<!-- Frameworks & Libraries -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="SASS"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+
 </div>
 
-### Frameworks & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js - Expert" />
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React - Advanced" />
-  <img src="https://img.shields.io/badge/Discord.js-Intermediate-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord.js - Intermediate" />
-</div>
-
-### Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white" title="Git & GitHub - Advanced" />
-  <img src="https://img.shields.io/badge/Vercel-Intermediate-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel - Intermediate" />
-  <img src="https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VS Code - Expert" />
-</div>
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=qsSammyinkr&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=qsSammyinkr&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qsSammyinkr&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qsSammyinkr&theme=radical&hide_border=true" height="160"/>
 </div>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsSammyinkr&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/qsSammyinkr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/></a>
-  <a href="https://discord.com/users/YourID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel"/></a>
+<div align="center" style="margin-top:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsSammyinkr&layout=compact&theme=radical&langs_count=10" height="160"/>
 </div>
